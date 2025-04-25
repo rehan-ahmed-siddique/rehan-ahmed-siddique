@@ -44,6 +44,12 @@ Welcome to **CloudDevOps**, a repository showcasing expertise in **Microsoft Azu
 🔹 AWS CloudFormation
 🔹 Bash Scripting
 🔹 PowerShell
+🔹 Docker
+🔹 Git & GitHub
+🔹 Ansible
+🔹 Jenkins
+🔹 Kubernetes
+🔹 ELK
 
 ### 🔒 **Security & Compliance:**
 🔹 Qualys
