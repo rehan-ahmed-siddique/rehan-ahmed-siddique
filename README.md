@@ -50,6 +50,9 @@ Welcome to **CloudDevOps**, a repository showcasing expertise in **Microsoft Azu
 🔹 Jenkins
 🔹 Kubernetes
 🔹 ELK
+🔹 Maven
+🔹 Prometheus 
+🔹 Grafana
 
 ### 🔒 **Security & Compliance:**
 🔹 Qualys
