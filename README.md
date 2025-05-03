@@ -36,7 +36,7 @@ Welcome to **CloudDevOps**, a repository showcasing expertise in **Microsoft Azu
 ### ☁️ **Cloud Platforms:**
 🔹 Microsoft Azure: Virtual Machines, ARM, VNET, Load Balancers, Azure Functions, App Services, Azure SQL Database, Cosmos DB, Blob Storage, Azure AD, Monitor, Security Center, Site Recovery, Firewall, Traffic Manager, Migrate
 🔹 Amazon Web Services (AWS): EC2, S3, RDS, Lambda, CloudFormation, IAM, VPC, CloudFront, Route 53, Elastic Beanstalk, DynamoDB, CloudWatch, SES, SNS, SQS, Event Bridge, RDS Databases, Load Balancers, Auto Scaling Groups, Migration Hub
-🔹 Operating Systems: Windows Server (2012/2016/2019/2022), Windows 7/8/10/11, Linux
+🔹 Operating Systems: Windows Server (2012/2016/2019/2022), Windows 7/8/10/11, Linux (Ubuntu,Red Hat,CentOS)
 
 ### 🛠️ **DevOps & Infrastructure as Code:**
 🔹 Terraform
