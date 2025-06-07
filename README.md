@@ -18,8 +18,8 @@ Welcome to **CloudDevOps**, a repository showcasing expertise in **Microsoft Azu
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/-Data%20Analysis-4EAA25?style=for-the-badge&logo=apache-airflow&logoColor=white
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4EAA25?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### 🔒 **Security & Compliance**
 ![Qualys](https://img.shields.io/badge/-Qualys-00A7E1?style=for-the-badge)
